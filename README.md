@@ -1,5 +1,3 @@
-# testrepo
+# Simple Interest Calculator
 
-## Editing the file
-
-Its a markdown file in this repository
+A calculator that computes simple interest based on principal, annual rate of interest, and time period in years.
